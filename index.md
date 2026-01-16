@@ -9,3 +9,5 @@ See more: [Projects](projects.md)
 - Email: <lucas.e.rodrigues1@gmail.com>
 - LinkedIn: <https://www.linkedin.com/in/lucaserodrigues/>
 - CV: (add link)
+
+[Projects](projects.md) • [LinkedIn](https://www.linkedin.com/in/lucaserodrigues/) • [Email](mailto:lucas.e.rodrigues1@gmail.com) • [CV](#)
