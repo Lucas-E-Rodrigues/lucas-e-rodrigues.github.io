@@ -1,3 +1,5 @@
+[Projects](projects.md) • [LinkedIn](https://www.linkedin.com/in/lucaserodrigues/) • [Email](mailto:lucas.e.rodrigues1@gmail.com) • [CV](#)
+
 # Projects
 
 ## Research — Thermal cycling of adhesive joints
