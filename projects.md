@@ -4,7 +4,7 @@
 **What it was:** Experimental study of adhesive joint performance under thermal cycling.  
 **My role:** Experimental setup/testing, data collection, results synthesis, documentation.  
 **Skills:** materials/composites, test planning, data integrity, failure modes, reporting.  
-**Artifacts:** Poster (PDF) — coming
+**Artifacts:** [Poster (PDF)](https://github.com/Lucas-E-Rodrigues/portfolio/blob/main/research-adhesives/PosterForSpringExpo-LucasRodrigues.pdf)
 
 ## Controls & Measurements (course lab)
 **What it was:** System modeling/validation and performance comparison from lab work.  
