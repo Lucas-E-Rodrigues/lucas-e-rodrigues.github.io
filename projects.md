@@ -1,4 +1,4 @@
-[Home](projects.md) • [LinkedIn](https://www.linkedin.com/in/lucaserodrigues/) • [Email](mailto:lucas.e.rodrigues1@gmail.com) • [CV](#)
+[Home](/) • [LinkedIn](https://www.linkedin.com/in/lucaserodrigues/) • [Email](mailto:lucas.e.rodrigues1@gmail.com) • [CV](#)
 
 # Projects
 
