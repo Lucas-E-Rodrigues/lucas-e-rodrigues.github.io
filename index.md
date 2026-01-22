@@ -1,7 +1,6 @@
 ## Projects (selected)
-- Thermal cycling of adhesive joints — experimental research + results
-- Controls & Measurements — system modeling / validation (lab work)
-- ECE project — design/build/test with measured performance
+- Thermal Fatigue of Adhesive Tooling Joints: experimental research and results
+- Optical Heart Rate Sensor (ECE 20008 Final Project): circuit design, construction, and validation
 
 See more: [Projects](projects.md)
 
