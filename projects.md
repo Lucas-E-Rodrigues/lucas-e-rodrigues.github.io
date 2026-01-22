@@ -2,8 +2,7 @@
 
 # Projects
 
-## Research: Thermal Fatigue of Adhesive Bonding in Modular Additively Manufactured
-## Fiber-Reinforced Composite Tooling
+## Research: Thermal Fatigue of Adhesive Bonding in Modular Additively Manufactured Fiber-Reinforced Composite Tooling
 **What it was:** Experimental study of adhesive joint performance under thermal cycling.  
 **My role:** Experimental setup/testing, data collection, results synthesis, documentation.  
 **Skills:** materials/composites, test planning, data integrity, failure modes, reporting.  
