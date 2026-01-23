@@ -1,3 +1,8 @@
+## About
+-Interests
+-Strengths
+-What I am looking for (keep this to two to four sentences)
+
 ## Projects (selected)
 - Thermal Fatigue of Adhesive Tooling Joints: experimental research and results
 - Optical Heart Rate Sensor (ECE 20008 Final Project): circuit design, construction, and validation
