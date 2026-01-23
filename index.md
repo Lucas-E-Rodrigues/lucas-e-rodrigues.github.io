@@ -11,6 +11,6 @@ See more: [Projects](projects.md)
 
 ## Contact
 - Email: <lucas.e.rodrigues1@gmail.com>
-- LinkedIn: <https://www.linkedin.com/in/lucaserodrigues/>
+- LinkedIn: [Lucas Rodrigues](https://www.linkedin.com/in/lucaserodrigues/)
 - CV: [Download (PDF)](https://github.com/Lucas-E-Rodrigues/lucas-e-rodrigues.github.io/raw/main/Resume_LRodrigues(1-21-25).pdf)
 
