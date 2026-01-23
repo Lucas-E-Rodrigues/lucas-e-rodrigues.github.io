@@ -8,7 +8,7 @@
      style="width:100%; max-width:900px; height:auto; border-radius:5px; border:2px solid #e6e6e6; margin:12px 0 28px 0;">
 **What it was:** Experimental study of vacuum integrity and adhesive joint durability for modular, additively manufactured composite tooling under thermal cycling.
 
-**My role:** Planned and executed ASTM-compliant vacuum bag leak testing on thermally cycled samples (up to 350°F), performed Double Cantilever Beam fracture-toughness testing using a Universal Testing Machine and microscopy, and synthesized results into a conference poster/presentation.
+**My role:** Planned and executed ASTM-compliant vacuum bag leak testing on thermally cycled samples (up to 350°F) and performed Double Cantilever Beam fracture-toughness testing using a Universal Testing Machine and microscopy; summarized results in a conference poster/presentation.
 
 **Skills:** Experimental design, ASTM test methods, vacuum bagging & leak testing, UTM testing, microscopy, data analysis, technical communication.
 
