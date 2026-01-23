@@ -1,7 +1,7 @@
 [Projects](projects.md) • [LinkedIn](https://www.linkedin.com/in/lucaserodrigues/) • [Email](mailto:lucas.e.rodrigues1@gmail.com) • [CV](https://github.com/Lucas-E-Rodrigues/lucas-e-rodrigues.github.io/raw/main/Resume_LRodrigues(1-21-25).pdf)
 
 ## About
-I am a junior mechanical engineering student (minoring in electrical and computer engineering) with a passion for space, hands-on work, and research. I am highly adaptable, a quick learner, and have a drive for excellence. I am seeking research assistant postions for the 2026 spring semester as well as internship opportunities for the 2026 summer.
+I’m a junior mechanical engineering student (minor in electrical and computer engineering) interested in space systems, hands-on experimentation, and applied design. I enjoy building and testing real hardware, communicating results clearly, and learning fast in new technical environments. I’m seeking research roles for Spring 2026 and internship opportunities for Summer 2026.
 
 ## Projects (selected)
 - Thermal Fatigue of Adhesive Tooling Joints: experimental research and results
