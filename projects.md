@@ -29,3 +29,31 @@
 **Results:** Measured ~2.662 V DC offset with ~40 mVpp heartbeat ripple at the sensor output, verified filter performance (HP cutoff 40.77 BPM, LP cutoff 217.26 BPM), iterated the cascade to achieve an overall 40.46–200.34 BPM band-pass response, confirmed clean digital pulses + LED indication with ~4.4804 Vpp output.
 
 **Artifacts:** [Project Report (PDF)](https://github.com/Lucas-E-Rodrigues/portfolio/blob/main/OpticalHeartRateSensorReport.pdf)
+
+## ASME Purdue Grand Prix: Quick-Release Fuel Tank
+<img src="/assets/img/FuelCollage.png"
+     alt="Fuel Collage"
+     style="width:100%; max-width:900px; height:auto; border-radius:5px; border:2px solid #e6e6e6; margin:12px 0 28px 0;">
+**What it was:** Designed a 7-quart aluminum fuel tank system for a Purdue Grand Prix racing kart, featuring a dual quick-release handle mechanism and internal baffling to reduce slosh and improve pit-stop serviceability.
+
+**My role:** Led the design phase for the fuel system subteam and produced the detailed CAD in Fusion 360 (tank geometry, mounts, baffles, and quick-release concept). Created a complete design handoff package (BOM + design intent) for manufacturing and installation by teammates.
+
+**Skills:** CAD (Fusion 360), mechanism design, packaging/constraints-driven design, DFM thinking, fit/interface design, documentation & handoff, team leadership.
+
+**Results:** Targeted ~10% reduction in tank weight and an estimated ~70% reduction in tank-swap time through the quick-release concept; baffle layout designed to improve stability during high-speed cornering.
+
+**Artifacts:** [Fuel System BOM (PDF)]([Link](https://github.com/Lucas-E-Rodrigues/portfolio/blob/main/FuelBOM.pdf))
+
+## ME 263 Team Design Project: Compact Student Dishwasher
+<img src="/assets/img/264Collage.png"
+     alt="Sophomore Design Collage"
+     style="width:100%; max-width:900px; height:auto; border-radius:5px; border:2px solid #e6e6e6; margin:12px 0 28px 0;">
+**What it was:** Team design project to develop a compact dishwasher concept for small living spaces, guided by customer requirements, benchmarking, and a selected mechanical concept.
+
+**My role:** Worked in a 4-person team to translate customer needs into engineering requirements, develop and refine the concept, and communicate the design through a final poster and written report.
+
+**Skills:** Requirements engineering, benchmarking, concept development, design tradeoffs, CAD communication, technical writing, teamwork.
+
+**Results:** Delivered a complete concept package (requirements + benchmarking + selected concept) and presented the design at a course showcase.
+
+**Artifacts:** [Poster (PDF)]([Link](https://github.com/Lucas-E-Rodrigues/portfolio/blob/main/ME263Poster_PristineSolutions.pdf)) • [Final Report (PDF)]([Link](https://github.com/Lucas-E-Rodrigues/portfolio/blob/main/ME263FinalReport.pdf))
