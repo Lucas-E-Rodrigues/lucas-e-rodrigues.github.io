@@ -45,7 +45,7 @@
 **Artifacts:** [Fuel System BOM (PDF)]([Link](https://github.com/Lucas-E-Rodrigues/portfolio/blob/main/FuelBOM.pdf))
 
 ## ME 263 Team Design Project: Compact Student Dishwasher
-<img src="/assets/img/264Collage.png"
+<img src="/assets/img/263Collage.png"
      alt="Sophomore Design Collage"
      style="width:100%; max-width:900px; height:auto; border-radius:5px; border:2px solid #e6e6e6; margin:12px 0 28px 0;">
 **What it was:** Team design project to develop a compact dishwasher concept for small living spaces, guided by customer requirements, benchmarking, and a selected mechanical concept.
