@@ -2,7 +2,8 @@
 
 # Projects
 
-## Research: Thermal Fatigue of Adhesive Bonding in Modular Additively Manufactured Fiber-Reinforced Composite Tooling
+## Research: Thermal Fatigue of Adhesive Bonding in Modular Additively Manufactured Fiber-Reinforced Composite Tooling <span style="float:right; font-weight:400; color:#666; font-size:0.95rem;">Jan 2025 – May 2025</span>
+<div style="clear:both;"></div>
 <img src="/assets/img/AdhesiveCollage.png"
      alt="Thermal fatigue research collage"
      style="width:100%; max-width:900px; height:auto; border-radius:5px; border:2px solid #e6e6e6; margin:12px 0 28px 0;">
