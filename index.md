@@ -6,7 +6,7 @@ I’m a junior mechanical engineering student (minor in electrical and computer 
 ## Projects (selected)
 - Thermal Fatigue of Adhesive Tooling Joints: experimental research and results
 - Optical Heart Rate Sensor: circuit design, construction, and validation
-- Quick-Release Fuel Tank: Tank, baffle, handle design, and team leadership
+- Quick-Release Fuel Tank: CAD design, quick-release mechanism, and baffle layout
 
 See more: [Projects](projects.md)
 
