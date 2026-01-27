@@ -42,7 +42,7 @@
 
 **Results:** Targeted ~10% reduction in tank weight and an estimated ~70% reduction in tank-swap time through the quick-release concept; baffle layout designed to improve stability during high-speed cornering.
 
-**Artifacts:** [Fuel System BOM (PDF)]([Link](https://github.com/Lucas-E-Rodrigues/portfolio/blob/main/FuelBOM.pdf))
+**Artifacts:** [Fuel System BOM (PDF)](https://github.com/Lucas-E-Rodrigues/portfolio/blob/main/FuelBOM.pdf)
 
 ## ME 263 Team Design Project: Compact Student Dishwasher
 <img src="/assets/img/263Collage.png"
@@ -56,4 +56,4 @@
 
 **Results:** Delivered a complete concept package (requirements + benchmarking + selected concept) and presented the design at a course showcase.
 
-**Artifacts:** [Poster (PDF)]([Link](https://github.com/Lucas-E-Rodrigues/portfolio/blob/main/ME263Poster_PristineSolutions.pdf)) • [Final Report (PDF)]([Link](https://github.com/Lucas-E-Rodrigues/portfolio/blob/main/ME263FinalReport.pdf))
+**Artifacts:** [Poster (PDF)](https://github.com/Lucas-E-Rodrigues/portfolio/blob/main/ME263Poster_PristineSolutions.pdf) • [Final Report (PDF)](https://github.com/Lucas-E-Rodrigues/portfolio/blob/main/ME263FinalReport.pdf)
