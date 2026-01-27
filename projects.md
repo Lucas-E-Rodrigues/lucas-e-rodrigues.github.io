@@ -19,6 +19,7 @@
 **Artifacts:** [Poster (PDF)](https://github.com/Lucas-E-Rodrigues/portfolio/blob/main/research-adhesives/PosterForSpringExpo-LucasRodrigues.pdf)
 
 ## ECE 20008 Final Project: Optical Heart Rate Sensor
+<span style="float:right; font-weight:400; color:#666; font-size:0.95rem;">Dec 2025</span>
 <img src="/assets/img/2k8Collage.png"
      alt="Heart rate sensor Collage"
      style="width:100%; max-width:900px; height:auto; border-radius:5px; border:2px solid #e6e6e6; margin:12px 0 28px 0;">
@@ -33,6 +34,7 @@
 **Artifacts:** [Project Report (PDF)](https://github.com/Lucas-E-Rodrigues/portfolio/blob/main/OpticalHeartRateSensorReport.pdf)
 
 ## ASME Purdue Grand Prix: Quick-Release Fuel Tank
+<span style="float:right; font-weight:400; color:#666; font-size:0.95rem;">Jan 2024 – May 2025</span>
 <img src="/assets/img/FuelCollage.png"
      alt="Fuel Collage"
      style="width:100%; max-width:900px; height:auto; border-radius:5px; border:2px solid #e6e6e6; margin:12px 0 28px 0;">
@@ -47,6 +49,7 @@
 **Artifacts:** [Fuel System BOM (PDF)](https://github.com/Lucas-E-Rodrigues/portfolio/blob/main/FuelBOM.pdf)
 
 ## ME 263 Team Design: Compact Dishwasher Concept
+<span style="float:right; font-weight:400; color:#666; font-size:0.95rem;">Jan 2025 – May 2025</span>
 <img src="/assets/img/263Collage.png"
      alt="Sophomore Design Collage"
      style="width:100%; max-width:900px; height:auto; border-radius:5px; border:2px solid #e6e6e6; margin:12px 0 28px 0;">
