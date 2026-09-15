@@ -1,7 +1,7 @@
 [Projects](projects.md) • [LinkedIn](https://www.linkedin.com/in/lucaserodrigues/) • [Email](mailto:lucas.e.rodrigues1@gmail.com) • [CV](https://github.com/Lucas-E-Rodrigues/lucas-e-rodrigues.github.io/raw/main/Resume_LRodrigues(1-21-25).pdf)
 
 ## About
-I am a junior Mechanical Engineering student at Purdue University, currently studying at ETH Zürich for Spring 2026. My experience spans composite tooling research, CAD/CAM, CNC manufacturing, controls/electronics labs, and student design teams. I am interested in aerospace systems, robotics, manufacturing, and experimental validation, and I am currently seeking research opportunities for Spring/Summer 2026 and engineering internships for Summer 2026.
+I am a senior Mechanical Engineering student at Purdue University, graduating May 2027, with a semester at ETH Zürich. My experience spans composite tooling research, CAD/CAM, CNC manufacturing, controls and electronics labs, and student design teams. I am interested in aerospace systems, robotics, manufacturing, and experimental validation, and I am currently seeking full-time engineering roles starting in 2027.
 
 ## Selected Projects
 - Thermal Fatigue of Adhesive Tooling Joints: experimental research and results
