@@ -14,7 +14,7 @@
 
 **Skills:** Experimental design, ASTM test methods, vacuum bagging & leak testing, UTM testing, microscopy, data analysis, technical communication.
 
-**Results:** Identified a 41% performance gap in vacuum integrity between print orientations; presented at Purdue’s Spring Undergraduate Research Conference and scored 21% above the average across judging criteria.
+**Results:** Identified a 80% vs. 39% improvement in joint leak rate between bond-plane orientations after one thermal cycle between print orientations; presented at Purdue’s Spring Undergraduate Research Conference and scored 21% above the average across judging criteria.
 
 **Artifacts:** [Poster (PDF)](https://github.com/Lucas-E-Rodrigues/portfolio/blob/main/research-adhesives/PosterForSpringExpo-LucasRodrigues.pdf)
 
